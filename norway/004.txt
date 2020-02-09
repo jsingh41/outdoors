@@ -1,0 +1,10 @@
+---
+top: 60
+left: 5
+width: 40
+height: 30
+textcolor: #ffffff
+---
+
+I've been wanting to go to Lofoten for the past two years.  
+I was glad I was finally able to, that too along with my mom!

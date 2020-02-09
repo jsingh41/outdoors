@@ -1,0 +1,10 @@
+---
+top: 70
+left: 5
+width: 40
+height: 30
+textcolor: #ffffff
+---
+
+Exploring  
+# Norway

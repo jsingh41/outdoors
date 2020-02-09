@@ -1,0 +1,10 @@
+---
+top: 90
+left: 5
+width: 40
+height: 30
+textcolor: #ffffff
+---
+
+Ferry back from Moskenes to Bodø.  
+This "ferry" can carry upto 10 trucks

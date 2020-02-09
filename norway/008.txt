@@ -1,0 +1,9 @@
+---
+top: 85
+left: 5
+width: 40
+height: 30
+textcolor: #ffffff
+---
+
+The red color of the rorbus are a warm contrast against the snowy white backdrop
