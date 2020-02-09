@@ -1,2 +1,3 @@
 # outdoors
-Website for Outdoors
+Website for Outdoors.
+Personal website
