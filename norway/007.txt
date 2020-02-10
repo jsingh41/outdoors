@@ -1,9 +1,0 @@
----
-top: 60
-left: 40
-width: 40
-height: 30
-textcolor: #ffffff
----
-
-Traditional fishermen houses, also known as Rorbus are a common sight in Lofoten

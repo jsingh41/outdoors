@@ -1,9 +1,0 @@
----
-top: 80
-left: 60
-width: 40
-height: 30
-textcolor: #ffffff
----
-
-Mom exploring the roads of Reine

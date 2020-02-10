@@ -1,9 +1,0 @@
----
-top: 70
-left: 40
-width: 40
-height: 30
-textcolor: #000000
----
-
-One fell off I suppose
