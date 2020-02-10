@@ -1,9 +1,0 @@
----
-top: 60
-left: 5
-width: 40
-height: 30
-textcolor: #ffffff
----
-
-I could stay here forever

@@ -1,9 +1,0 @@
----
-top: 70
-left: 50
-width: 40
-height: 30
-textcolor: #ffffff
----
-
-I would like to stay in a rorbu on my next visit

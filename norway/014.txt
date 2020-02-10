@@ -1,9 +1,0 @@
----
-top: 60
-left: 5
-width: 40
-height: 30
-textcolor: #ffffff
----
-
-There is a car rental right next to the port of Moskenes, where we got our car from. They drive on the right side of the road in Norway, which was helpful

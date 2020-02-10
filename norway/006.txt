@@ -1,9 +1,0 @@
----
-top: 20
-left: 80
-width: 40
-height: 30
-textcolor: #000000
----
-
-Lofoten Islands are connected by many such spectacular bridges along the European Route E10
