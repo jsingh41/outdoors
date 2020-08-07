@@ -12,6 +12,7 @@ Within outdoors, you need to store
 - global.js
 - json.js
 - LICENSE.txt
+- ? Should all image folders go here? Idk
 
 You will run the expose.sh script from here. This will create a __site_ folder. If a folder already exists, it will be overwritten.
 The _site needs to be the folder that is synced with the git repo to build the website
